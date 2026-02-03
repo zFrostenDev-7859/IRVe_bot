@@ -1,0 +1,54 @@
+47 drive [draɪv] drove [droʊv] driven [drɪvn] водить , гнать
+48 dwell [dwel] dwelt [dwɛlt], dwelled [dwɛld] dwelt [dwɛlt], dwelled [dwɛld] обитать
+49 eat [i:t] ate [ɛt] eaten [i:tn] есть (пищу)
+50 fall [fɔ:l] fell [fɛl] fallen [fɔ:lən] падать
+51 feed [fi:d] fed [fɛd] fed [fɛd] кормить(ся)
+52 feel [fi:l] felt [fɛlt] felt [fɛlt] чувствовать
+53 fight [faɪt] fought [fɔ:t] fought [fɔ:t] бороться
+54 find [faɪnd] found [faʊnd] found [faʊnd] находить
+55 fit [fɪt] fit [fɪt], fitted [ˈfɪtɪd] fit [fɪt], fitted [ˈfɪtɪd] подходить , подгонять (об одежде)
+56 flee [fli:] fled [flɛd] fled [flɛd] бежать , спасаться
+57 fling [flɪŋ] flung [flʌŋ] flung [flʌŋ] швырять
+58 fly [flaɪ] flew [flu:] flown [floʊn] летать
+59 forbid [fəˈbɪd] forbade [fəˈbeɪd] forbidden [fəbɪdn] запретить
+60 forgo (forego) [fɔːˈɡəʊ] forewent [fɔːˈwɛnt] foregone [fɔːˈɡɒn] предшествовать , воздерживаться
+61 foresee [fɔːˈsiː] foresaw [fɔːˈsɔː] foreseen [fɔːˈsiːn] предвидеть
+62 foretell [fɔːˈtɛl] foretold [fɔːˈtəʊld] foretold [fɔːˈtəʊld] предсказывать
+63 forget [fəˈget] forgot [fəˈgɒt] forgotten [fəˈgɒtn] забыть
+64 forgive [fəˈgɪv] forgave [fəˈgeɪv] forgiven [fəgɪvn] простить
+65 forsake [fəˈseɪk] forsook [fəˈsʊk] forsaken [fəˈseɪkn] покидать
+66 freeze [fri:z] froze [froʊz] frozen [froʊzn] замерзать
+67 get [get] got [gɒt] gotten [gɒtn], got [gɒt] получать , становиться
+68 gild [gɪld] gilt [gɪlt] gilt [gɪlt] позолотить
+69 give [gɪv] gave [geɪv] given [gɪvn] давать
+70 go [goʊ] went [wɛnt] gone [ɡɒn] идти, ехать
+71 grind [graɪnd] ground [graʊnd] ground [graʊnd] точить , молоть
+72 grow [groʊ] grew [gru:] grown [groʊn] расти , выращивать
+73 hang [hæŋ] hung [hʌŋ] hung [hʌŋ] висеть , повесить
+74 have [hæv] had [hæd] had [hæd] иметь
+75 hear [hɪə] heard [hɜ:d] heard [hɜ:d] слышать
+76 heave [hi:v] heaved [hi:vd], hove [həʊv] heaved [hi:vd], hove [həʊv] поднимать
+77 hew [hju:] hewed [hju:d] hewn [hju:n], hewed [hju:d] рубить , тесать
+78 hide [haɪd] hid [hɪd] hidden [hɪdn] прятать (ся)
+79 hit [hɪt] hit [hɪt] hit [hɪt] ударить
+80 hold [hoʊld] held [hɛld] held [hɛld] держать , проводить
+81 hurt [hɜ:t] hurt [hɜ:t] hurt [hɜ:t] ранить , обижать
+82 inlay [ɪnˈleɪ] inlaid [ɪnˈleɪd] inlaid [ɪnˈleɪd] вкладывать , инкрустировать
+83 input [ˈɪnpʊt] input [ˈɪnpʊt] input [ˈɪnpʊt] вводить (данные)
+84 interweave [ɪntəˈwiːv] interwove [ɪntəˈwəʊv] interwoven [ɪntəˈwəʊv(ə)n] сплетать
+85 keep [ki:p] kept [kɛpt] kept [kɛpt] держать
+86 kneel [ni:l] knelt [nɛlt] knelt [nɛlt] становиться на колени
+87 knit [nɪt] knit [nɪt] knit [nɪt] вязать
+88 know [noʊ] knew [nju:] known [noʊn] знать
+89 lay [leɪ] laid [leɪd] laid [leɪd] класть
+90 lead [li:d] led [lɛd] led [lɛd] вести
+91 lean [li:n] leant [lɛnt] leant [lɛnt] опираться
+92 leap [li:p] leapt [lɛpt] leapt [lɛpt] прыгать
+93 learn [lɜ:n] learned [lɜ:nd], learnt [lɜ:nt] learnt [lɜ:nt] учить(ся)
+94 leave [li:v] left [lɛft] left [lɛft] оставлять , уезжать
+95 lend [lɛnd] lent [lɛnt] lent [lɛnt] давать взаймы
+96 let [lɛt] let [lɛt] let [lɛt] позволять
+97 lie [laɪ] lay [leɪ] lain [leɪn] лежать
+98 lie [laɪ] (правильный) lied [laɪd] lied [laɪd] лгать
+99 light [laɪt] lit [lɪt], lighted [laɪtɪd] lit [lɪt], lighted [laɪtɪd] зажигать , освещать
+100 lose [lu:z] lost [lɒst] lost [lɒst] терять

@@ -1,0 +1,54 @@
+101 make [meɪk] made [meɪd] made [meɪd] делать , создавать
+102 mean [mi:n] meant [mɛnt] meant [mɛnt] означать
+103 meet [mi:t] met [mɛt] met [mɛt] встретить
+104 mistake [mɪisˈteɪk] mistook [mɪˈstʊk] mistaken [mɪˈsteɪk(ə)n] ошибаться
+105 mow [moʊ] mowed [moʊd] mown [moʊn] косить (траву)
+106 overcome [əʊvəˈkʌm] overcame [əʊvəˈkeɪm] overcome [əʊvəˈkʌm] преодолевать
+107 pay [peɪ] paid [peɪd] paid [peɪd] платить
+108 plead [pli:d] pleaded [pli:dɪd], pled [plɛd] pleaded [pli:dɪd], pled [plɛd] заявлять
+109 prove [pru:v] proved [pru:vd] proven [pru:vən], proved [pru:vd] доказывать
+110 put [pʊt] put [pʊt] put [pʊt] класть111 read [ri:d] read [rɛd] read [rɛd] читать
+112 relay [riːˈleɪ] relaid [riːˈleɪd] relaid [riːˈleɪd] перекладывать (плитку и т.п.)
+113 relay [rɪˈleɪ] (правильный) relayed [rɪˈleɪd] relayed [rɪˈleɪd] передавать (сигнал и т.п.)
+114 rid [rɪd] rid [rɪd] rid [rɪd] избавлять
+115 ride [raɪd] rode [roʊd] ridden [rɪdn] ездить верхом
+116 ring [rɪŋ] rang [ræŋ] rung [rʌŋ] звонить
+117 rise [raɪz] rose [roʊz] risen [rɪzn] подниматься
+118 run [rʌn] ran [ræn] run [rʌn] бежать
+119 saw [sɔ:] sawed [sɔ:d] sawed [sɔ:d], sawn [sɔ:n] пилить
+120 say [sɛɪ] said [sɛd] said [sɛd] сказать
+121 see [si:] saw [sɔ:] seen [si:n] видеть
+122 seek [si:k] sought [sɔ:t] sought [sɔ:t] искать
+123 sell [sel] sold [soʊld] sold [soʊld] продавать
+124 send [sɛnd] sent [sɛnt] sent [sɛnt] посылать
+125 set [sɛt] set [sɛt] set [sɛt] ставить
+126 sew [səʊ] sewed [səʊd] sewn [səʊn] шить
+127 shake [ʃeɪk] shook [ʃʊk] shaken [ʃeɪkən] трясти
+128 shave [ʃeɪv] shaved [ʃeɪvd] shaved [ʃeɪvd], shaven [ʃeɪvən] брить (ся)
+129 shear [ʃɪə] sheared [ʃɪəd] sheared [ʃɪəd], shorn [ʃɔ:n] стричь
+130 shed [ʃed] shed [ʃɛd] shed [ʃɛd] проливать (слёзы)
+131 shine [ʃaɪn] shone [ʃoʊn] shone [ʃoʊn] светить , сиять
+132 shit [ʃit] shit [ʃit] shit [ʃit] гадить
+133 shoe [ʃu:] shod [ʃɒd] shod [ʃɒd] обувать , подковывать
+134 shoot [ʃu:t] shot [ʃɒt] shot [ʃɒt] стрелять
+135 show [ʃoʊ] showed [ʃoʊd] shown [ʃoʊn] показывать
+136 shrink [ʃrɪŋk] shrank [ʃræŋk] shrunk [ʃrʌŋk] сжиматься
+137 shut [ʃʌt] shut [ʃʌt] shut [ʃʌt] закрывать
+138 sing [sɪŋ] sang [sæŋ] sung [sʌŋ] петь
+139 sink [sɪŋk] sank [sæŋk] sunk [sʌŋk] погружаться , тонуть
+140 sit [sɪt] sat [sæt] sat [sæt] сидеть
+141 slay [sleɪ] slew [slu:] slain [sleɪn] убивать
+142 slay [sleɪ] (правильный) slayed [sleɪd] slayed [sleɪd] восхищать , поражать
+143 sleep [sli:p] slept [slɛpt] slept [slɛpt] спать
+144 slide [slaɪd] slid [slɪd] slid [slɪd] скользить
+145 sling [slɪŋ] slung [slʌŋ] slung [slʌŋ] швырять, подвешивать
+146 slink [slɪŋk] slinked [slɪŋkt], slunk [slʌŋk] slinked [slɪŋkt], slunk [slʌŋk] красться
+147 slit [slɪt] slit [slɪt] slit [slɪt] разрезать (полосами), расщеплять
+148 smell [smel] smelt [smɛlt] smelt [smɛlt] пахнуть , нюхать
+149 smite [smʌɪt] smote [sməʊt] smitten [ˈsmɪtn] ударять , разбивать
+150 sow [soʊ] sowed [soʊd] sown [soʊn] сеять
+151 speak [spi:k] spoke [spoʊk] spoken [spoʊkən] разговаривать
+152 speed [spi:d] sped [spɛd] sped [spɛd] мчаться
+153 spell [spel] spelt [spɛlt] spelt [spɛlt] писать , читать по буквам
+154 spend [spend] spent [spɛnt] spent [spɛnt] тратить , проводить (время)
+155 spill [spɪl] spilt [spɪlt] spilt [spɪlt] расплескать

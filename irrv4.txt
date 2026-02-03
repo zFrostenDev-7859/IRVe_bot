@@ -1,0 +1,48 @@
+156 spin [spɪn] spun [spʌn] spun [spʌn] прясть , вертеть
+157 spit [spɪt] spit [spɪt], spat [spæt] spit [spɪt], spat [spæt] плевать
+158 split [splɪt] split [splɪt] split [splɪt] расщепить(ся)
+159 spoil [spoɪl] spoiled [spoɪld], spoilt [spoɪlt] spoiled [spoɪld], spoilt [spoɪlt] портить
+160 spread [spred] spread [sprɛd] spread [sprɛd] распространить(ся)
+161 spring [sprɪŋ] sprang [spræŋ] sprung [sprʌŋ] возникать , выпрыгивать
+162 stand [stænd] stood [stʊd] stood [stʊd] стоять
+163 steal [sti:l] stole [stoʊl] stolen [stoʊlən] красть
+164 stick [stɪk] stuck [stʌk] stuck [stʌk] втыкать , липнуть
+165 sting [stɪŋ] stung [stʌŋ] stung [stʌŋ] жалить
+166 stink [stɪŋk] stank [stræŋk] stunk [stʌŋk] вонять
+167 strew [struː] strewed [struːd] strewn [struːn] усеивать
+168 stride [straɪd] strode [stroʊd] stridden [strɪdn] шагать
+169 strike [straɪk] struck [strʌk] struck [strʌk], stricken [strɪkən] ударить
+170 string [strɪŋ] strung [srtʌŋ] strung [strʌŋ] нанизать , натянуть
+171 strive [straɪv] strove [stroʊv], strived [straɪvd] striven [strɪvən], strived [straɪvd] стремиться
+172 swear [swɛə] swore [swɔ:] sworn [swɔ:n] клясться
+173 sweat [swet] sweat [swɛt], sweated [swɛtɪd] sweat [swɛt], sweated ['swɛtɪd] потеть
+174 sweep [swi:p] swept [swɛpt] swept [swɛpt] мести
+175 swell [swel] swelled [swɛld] swollen [swoʊlən], swelled [swɛld] распухнуть , вздуться
+176 swim [swɪm] swam [swæm] swum [swʌm] плыть
+177 swing [swɪŋ] swung [swʌŋ] swung [swʌŋ] раскачивать(ся)
+178 take [teɪk] took [tʊk] taken ['teɪkən] брать
+179 teach [ti:tʃ] taught [tɔ:t] taught [tɔ:t] обучать
+180 tear [tɛə] tore [tɔ:] torn [tɔ:n] рвать
+181 tell [tel] told [toʊld] told [toʊld] говорить , рассказывать
+182 think [θɪŋk] thought [θɔ:t] thought [θɔ:t] думать
+183 throw [θroʊ] threw [θru:] thrown [θroʊn] бросать
+184 thrust [θrʌst] thrust [θrʌst] thrust [θrʌst] толкать
+185 tread [tred] trod [trɒd] trodden [trɒdn] ступать
+186 undergo [ʌndəˈɡəʊ] underwent [ʌndə'wɛnt] undergone [ʌndə'ɡɒn] проходить , подвергаться
+187 understand [ʌndəˈstænd] understood [ʌndəˈstʊd] understood [ʌndəˈstʊd] понимать
+188 undertake [ʌndəˈteɪk] undertook ʌndəˈtʊk] undertaken [ʌndəˈteɪk(ə)n] предпринимать
+189 undo ['ʌn'du:] undid ['ʌn'dɪd] undone ['ʌn'dʌn] уничтожать сделанное
+190 upset [ʌp'set] upset [ʌp'set] upset [ʌp'set] опрокинуть
+191 wake [weɪk] woke [woʊk], waked [weɪkt] woken [woʊkən], waked [weɪkt] просыпаться
+192 wear [wɛə] wore [wɔ:] worn [wɔ:n] носить
+193 weave [wi:v] wove [woʊv], weaved [wi:vd] woven [woʊvən], weaved [wi:vd] ткать
+194 wed [wed] wed [wɛd], wedded ['wɛdɪd] wed [wɛd], wedded ['wɛdɪd] вступать в брак
+195 weep [wi:p] wept [wɛpt] wept [wɛpt] плакать
+196 wet [wɛt] wet [wɛt] wet [wɛt] мочить
+197 win [wɪn] won [wʌn] won [wʌn] выигрывать, побеждать
+198 wind [waɪnd] wound [waʊnd] wound [waʊnd] вить (ся)
+199 withdraw [wɪðˈdrɔː] withdrew [wɪð'druː] withdrawn [wɪð'drɔːn] забирать , отзывать , отказываться
+200 withhold [wɪðˈhəʊld] withheld [wɪðˈhɛld] withheld [wɪðˈhɛld] воздерживаться
+201 withstand [wɪðˈstand] withstood [wɪðˈstʊd] withstood [wɪðˈstʊd] противостоять
+202 wring [rɪŋ] wrung [rʌŋ] wrung [rʌŋ] выкручивать
+203 write [raɪt] wrote [roʊt] written [rɪtn] писать

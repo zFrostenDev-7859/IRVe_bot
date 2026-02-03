@@ -1,0 +1,48 @@
+В списке представлены все неправильные глаголы с форматом: № {Первая форма V1, Infinitive (Инфинитив)} [транскрипция] {Вторая форма V2, Past Simple (Прошедшее время)} [транскрипция] {Третья форма V3, Past Participle (Причастие прошедшего времени)} [транскрипция] [перевод на русский] 
+ 
+1 abide [əˈbʌɪd] abided [əˈbʌɪdɪd], abode [əˈbəʊd] abided [əˈbʌɪdɪd] обитать , пребывать
+2 arise [əˈraɪz] arose [əˈroʊz] arisen [əˈrɪzn] возникать, появляться
+3 awake [əˈwaɪk] awoke [əˈwoʊk] awoken [əˈwoʊkn] будить, просыпаться
+4 be [bi:] was, [wɒz], were [wɜ:] been [bi:n] быть, находиться
+5 bear [bɛə] bore [bɔ:] borne [bɔ:n] носить, выносить
+6 beat [bi:t] beat [bi:t] beaten [bi:tn] бить
+7 become [bɪˈkʌm] became [bɪˈkeɪm] become [bɪˈkʌm] становиться
+8 begin [bɪˈgɪn] began [bɪˈgæn] begun [bɪˈgʌn] начинать (ся)
+9 behold [bɪˈhəʊld] beheld [bɪˈhɛld] beheld [bɪˈhɛld] видеть , замечать
+10 bend [bɛnd] bent [bɛnt] bent [bɛnt] гнуть(ся)
+11 bereave [bɪˈriːv] bereft [bɪˈrɛft], bereaved [bɪˈriːvd] bereft [bɪˈrɛft], bereaved [bɪˈriːvd] лишать
+12 beseech [bɪˈsiːtʃ] besought [bɪˈsɔːt], beseeched [bɪˈsiːtʃt] besought [bɪˈsɔːt], beseeched [bɪˈsiːtʃt] умолять , упрашивать
+13 beset [bɪˈsɛt] beset [bɪˈsɛt] beset [bɪˈsɛt] осаждать
+14 bet [bɛt] bet [bɛt] bet [bɛt] держать пари
+15 bid [bɪd] bid/bade [bɪd/beɪd] bidden [bɪdn] велеть , просить
+16 bid [bɪd] bid [bɪd] bid [bɪd] предлагать цену (на аукционе)
+17 bind [baɪnd] bound [baʊnd] bound [baʊnd] связывать
+18 bite [bʌɪt] bit [bɪt] bitten [bɪtn] кусать
+19 bleed [bli:d] bled [blɛd] bled [blɛd] кровоточить
+20 blow [bloʊ] blew [blu:] blown [blu:] дуть
+21 break [breɪk] broke [broʊk] broken [broʊkən] ломать
+22 breed [bri:d] bred [brɛd] bred [brɛd] разводить (животных)
+23 bring [brɪŋ] brought [brɔ:t] brought [brɔ:t] принести
+24 build [bɪld] built [bɪlt] built [bɪlt] строить
+25 burn [bɜ:n] burned [bɜ:nd], burnt [bɜ:nt] burned [bɜ:nd], burnt [bɜ:nt] жечь , гореть
+26 burst [bɜ:st] burst [bɜ:st] burst [bɜ:st] взорваться
+27 bust [bʌst] busted [bʌstɪd], bust [bʌst] busted [bʌstɪd], bust [bʌst] разорить (ся)
+28 buy [baɪ] bought [bɔ:t] bought [bɔ:t] купить
+29 cast [kɑ:st] cast [kɑ:st] cast [kɑ:st] бросать , кидать
+30 catch [kætʃ] caught [kɔ:t] caught [kɔ:t] ловить
+31 choose [tʃu:z] chose [tʃoʊz] chosen [tʃoʊzn] выбирать
+32 cleave [kli:v] cleft [klɛft] cleft [klɛft] рассечь
+33 cling [klɪŋ] clung [klʌŋ] clung [klʌŋ] цеплять (ся)
+34 clothe [kloʊð] clothed [kloʊðd], clad [klæd] clothed [kloʊðd], clad [klæd] одеть (ся)
+35 come [kʌm] came [keɪm] come [keɪm] приходить
+36 cost [kɒst] cost [kɒst] cost [kɒst] стоить
+37 creep [kri:p] crept [krɛpt] crept [krɛpt] ползать
+38 cut [kʌt] cut [kʌt] cut [kʌt] резать
+39 deal [di:l] dealt [dɛlt] dealt [dɛlt] торговать
+40 dig [dɪg] dug [dʌg] dug [dʌg] копать
+41 disprove [dɪsˈpruːv] disproved [dɪsˈpruːvd] disproved [dɪsˈpruːvd], disproven [dɪsˈpru:vən] опровергать
+42 dive [daɪv] dove [doʊv], dived [daɪvd] dived [daɪvd] нырять , погружаться
+43 do [du:] did [dɪd] done [dʌn] делать
+44 draw [drɔ:] drew [dru:] drawn [drɔ:n] рисовать , тащить
+45 dream [dri:m] dreamed [dri:md], dreamt [drɛmt] dreamed [dri:md], dreamt [drɛmt] видеть сны , мечтать
+46 drink [drɪnk] drank [drænk] drunk [drʌnk] пить
